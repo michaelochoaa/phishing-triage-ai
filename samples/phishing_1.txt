@@ -1,0 +1,18 @@
+From: "Microsoft IT Support" <it-support@micros0ft-secure-login.xyz>
+Subject: URGENT: Your account will be suspended within 24 hours
+Reply-To: no-reply@micros0ft-secure-login.xyz
+Content-Type: text/plain
+
+Dear User,
+
+We have detected unusual activity on your Microsoft 365 account. Your account
+will be suspended within 24 hours unless you verify your account immediately.
+
+Please click here to verify: http://micros0ft-secure-login.xyz/verify?id=88213
+
+Failure to comply will result in permanent loss of access to your mailbox and
+files. Enter your password to confirm your identity and restore access.
+
+This is a final notice.
+
+IT Support Team

@@ -1,0 +1,14 @@
+From: "Sarah Chen" <sarah.chen@triplepointsecurity.com>
+Subject: Notes from today's patch review
+Content-Type: text/plain
+
+Hey team,
+
+Quick recap from today's patch review meeting. We're prioritizing the three
+CVEs affecting the endpoint fleet this week and holding the rest for next
+sprint. I'll send the updated tracker by Friday.
+
+Let me know if you have questions before then.
+
+Thanks,
+Sarah

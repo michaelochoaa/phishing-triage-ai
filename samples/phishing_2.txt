@@ -1,0 +1,12 @@
+From: "PayPal Security" <security@paypa1-account-verify.top>
+Subject: Unusual activity - action required
+Content-Type: text/plain
+
+We noticed a login attempt from a new device (IP 185.220.101.47).
+
+To keep your account secure, please confirm your identity and update your
+billing information within 24 hours: http://paypa1-account-verify.top/confirm
+
+If you did not attempt this login, click here immediately to secure your account.
+
+PayPal Security Team
