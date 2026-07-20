@@ -2,7 +2,9 @@
 
 A small SOC-analyst tool that takes a raw email and returns a risk verdict, extracted indicators of compromise, and a ready-to-paste analyst report, in seconds instead of the several minutes it takes to do the same triage by hand.
 
-I built this after spending a lot of my week at Triple Point Security investigating phishing reports manually: pulling the sender domain, checking for lookalike spoofing, scanning for urgency/credential-harvest language, and writing up a summary for the ticket. This automates the first pass of that workflow using an LLM (OpenAI) grounded on deterministic, explainable static analysis, with a pure heuristic mode that keeps it fully usable with no API key or cost.
+I built this after spending a lot of my week investigating phishing reports manually: pulling the sender domain, checking for lookalike spoofing, scanning for urgency/credential-harvest language, and writing up a summary for the ticket. This automates the first pass of that workflow using an LLM (OpenAI) grounded on deterministic, explainable static analysis, with a pure heuristic mode that keeps it fully usable with no API key or cost.
+
+![Architecture](assets/architecture.svg)
 
 ## Why it's built this way
 
