@@ -6,6 +6,8 @@ I built this after spending a lot of my week investigating phishing reports manu
 
 ![Architecture](assets/architecture.svg)
 
+![Demo](phishing-triage-demo.gif)
+
 ## Why it's built this way
 
 **Static analysis runs first, always.** `app/ioc_extractor.py` extracts URLs, IPs, sender domain, display-name spoofing, leetspeak lookalike domains (`micros0ft-secure-login.xyz` → flagged as impersonating `microsoft`), urgency language, and credential-harvesting language, all with plain regex and string matching. This is fast, free, fully explainable, and never depends on a third-party API being up.
